@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "263737104395",
+    "project_id": "e-pingo",
+    "storage_bucket": "e-pingo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263737104395:android:e9fd5f47c2d58790d94f0e",
+        "android_client_info": {
+          "package_name": "com.epingo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr6BsY5MdVLb18qe2cE0DO4WIVu52-35Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263737104395:android:4fb2ab4e0c8a6c1ad94f0e",
+        "android_client_info": {
+          "package_name": "com.example.epingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr6BsY5MdVLb18qe2cE0DO4WIVu52-35Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
